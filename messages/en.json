@@ -1,0 +1,18 @@
+{
+  "tagline": "Context-Aware Autonomous Robotics",
+  "hero": "FUA Robotics develops a modular ROS2-based autonomy framework for compact robotic platforms operating safely in human-shared agricultural and urban environments.",
+  "sectionAboutTitle": "Project Overview",
+  "sectionAboutText": "Our current flagship platform is a compact articulated autonomous tractor designed for vineyards, orchards, parks, and public green areas. The focus is not on task automation alone, but on safe, context-aware navigation and decision-making in environments where humans and robots coexist.",
+  "sectionAutonomyTitle": "Progressive Autonomy Levels",
+  "sectionAutonomyText": "The system evolves through clearly defined autonomy levels — from manual operation (Level 0) and supervised autonomy (Level 1) to human-aware autonomy (Level 2) and fully context- and mission-aware autonomy (Level 3).",
+  "sectionTechTitle": "Technology Stack",
+  "sectionTechText": "The platform is built on ROS2 Jazzy using a modular, event-driven architecture. It integrates perception, navigation, behavior-based decision making, and system-level safety supervision within a reusable framework designed for real-world deployment.",
+  "sectionSafetyTitle": "Human-Centric Safety",
+  "sectionSafetyText": "Safety is enforced through deterministic, rule-based logic inspired by industrial safety systems. Dynamic safety zones, context-aware mode switching, and structured fallback behaviors ensure predictable operation in human-shared environments.",
+  "sectionValidationTitle": "Real-World Validation",
+  "sectionValidationText": "All autonomy levels are validated both in simulation and on the physical robotic platform. The system is tested in agricultural fields and public areas to ensure reliable and explainable behavior under real operating conditions.",
+  "sectionReuseTitle": "Reusable Architecture",
+  "sectionReuseText": "The autonomy framework is modular and platform-independent, allowing adaptation to other mobile robotic systems such as compact utility vehicles or municipal maintenance robots.",
+  "btnTech": "Technology Overview",
+  "btnContact": "Contact Us"
+}

@@ -1,0 +1,18 @@
+{
+  "tagline": "Kontekstno Svjesna Autonomna Robotika",
+  "hero": "FUA Robotics razvija modularni autonomni sustav temeljen na ROS2 arhitekturi za kompaktne robotske platforme koje sigurno djeluju u poljoprivrednim i urbanim okruženjima dijeljenim s ljudima.",
+  "sectionAboutTitle": "Pregled Projekta",
+  "sectionAboutText": "Naša glavna platforma je kompaktni zglobni autonomni traktor namijenjen vinogradima, voćnjacima, parkovima i javnim zelenim površinama. Fokus nije samo na automatizaciji zadataka, već na sigurnoj i kontekstno prilagodljivoj navigaciji u okruženjima gdje ljudi i roboti surađuju.",
+  "sectionAutonomyTitle": "Progresivne Razine Autonomije",
+  "sectionAutonomyText": "Sustav se razvija kroz jasno definirane razine autonomije — od ručnog upravljanja (Level 0) i nadzirane autonomije (Level 1) do autonomije svjesne prisutnosti ljudi (Level 2) i potpuno kontekstno i misijski prilagodljive autonomije (Level 3).",
+  "sectionTechTitle": "Tehnološka Osnova",
+  "sectionTechText": "Platforma je izgrađena na ROS2 Jazzy middlewareu koristeći modularnu, event-driven arhitekturu. Integrira percepciju, navigaciju, behavior-based donošenje odluka i sustavni sigurnosni nadzor unutar skalabilnog i ponovno iskoristivog okvira.",
+  "sectionSafetyTitle": "Sigurnost Usmjerena na Čovjeka",
+  "sectionSafetyText": "Sigurnost se provodi determinističkom i pravilima definiranom logikom inspiriranom industrijskim sigurnosnim sustavima. Dinamičke sigurnosne zone i kontekstno prebacivanje operativnih modova osiguravaju predvidljivo ponašanje u okruženjima s prisutnim ljudima.",
+  "sectionValidationTitle": "Validacija u Stvarnim Uvjetima",
+  "sectionValidationText": "Sve razine autonomije validiraju se u simulaciji i na stvarnoj robotskoj platformi. Sustav se testira u poljoprivrednim i javnim prostorima kako bi se osigurala pouzdana i objašnjiva autonomija.",
+  "sectionReuseTitle": "Ponovna Iskoristivost Sustava",
+  "sectionReuseText": "Razvijeni autonomni okvir je modularan i platformno neovisan te se može prilagoditi drugim mobilnim robotskim sustavima poput komunalnih vozila ili autonomnih strojeva za održavanje.",
+  "btnTech": "Pregled Tehnologije",
+  "btnContact": "Kontakt"
+}
