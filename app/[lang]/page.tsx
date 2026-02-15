@@ -1,5 +1,11 @@
 import Link from "next/link";
 
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return [{ lang: "en" }, { lang: "hr" }];
+}
+
 export default function Page({ params }: { params: { lang: string } }) {
   const lang = params.lang === "hr" ? "hr" : "en";
 
