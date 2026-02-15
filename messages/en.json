@@ -14,5 +14,15 @@
   "sectionReuseTitle": "Reusable Architecture",
   "sectionReuseText": "The autonomy framework is modular and platform-independent, allowing adaptation to other mobile robotic systems such as compact utility vehicles or municipal maintenance robots.",
   "btnTech": "Technology Overview",
-  "btnContact": "Contact Us"
+  "btnContact": "Contact Us",
+  "sectionArchitectureTitle": "System Architecture",
+  "sectionArchitectureExtra": "The framework is structured around modular subsystems for perception, navigation, behavior-based control, and deterministic safety supervision. All components operate within a ROS2 distributed architecture designed for reproducibility and controlled scalability.",
+
+  "sectionAutonomyExtra": "Decision-making is context-aware and behavior-driven. The system transitions between operational modes based on environmental perception, mission state, and human proximity constraints.",
+
+  "sectionSafetyTitleAlt": "Safety Supervision",
+  "sectionSafetyExtra": "Safety logic is deterministic and rule-based. The system prioritizes predictability over heuristic shortcuts, ensuring explainable behavior in mixed human–robot environments.",
+
+  "sectionValidationTitleAlt": "Validation & Deployment",
+  "sectionValidationExtra": "The autonomy framework is validated through simulation and real-world deployment cycles, ensuring behavioral consistency between controlled environments and operational conditions."
 }

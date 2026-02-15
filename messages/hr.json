@@ -14,5 +14,15 @@
   "sectionReuseTitle": "Ponovna Iskoristivost Sustava",
   "sectionReuseText": "Razvijeni autonomni okvir je modularan i platformno neovisan te se može prilagoditi drugim mobilnim robotskim sustavima poput komunalnih vozila ili autonomnih strojeva za održavanje.",
   "btnTech": "Pregled Tehnologije",
-  "btnContact": "Kontakt"
+  "btnContact": "Kontakt",
+  "sectionArchitectureTitle": "Arhitektura Sustava",
+  "sectionArchitectureExtra": "Okvir je strukturiran u modularne podsustave za percepciju, navigaciju, donošenje odluka temeljeno na ponašanju te deterministički sigurnosni nadzor. Sve komponente rade unutar distribuirane ROS2 arhitekture dizajnirane za ponovljivost i kontroliranu skalabilnost.",
+
+  "sectionAutonomyExtra": "Donošenje odluka je kontekstno prilagodljivo i temeljeno na ponašajnim modelima. Sustav prelazi između operativnih modova ovisno o percepciji okoline, stanju misije i ograničenjima vezanim uz blizinu ljudi.",
+
+  "sectionSafetyTitleAlt": "Sigurnosni Nadzor",
+  "sectionSafetyExtra": "Sigurnosna logika je deterministička i temeljena na pravilima. Sustav daje prioritet predvidljivosti ispred heurističkih prečaca kako bi se osiguralo objašnjivo ponašanje u okruženjima gdje ljudi i roboti djeluju zajedno.",
+
+  "sectionValidationTitleAlt": "Validacija i Implementacija",
+  "sectionValidationExtra": "Autonomni okvir validira se kroz simulaciju i realne terenske cikluse testiranja, čime se osigurava konzistentnost ponašanja između kontroliranih uvjeta i stvarnih operativnih scenarija."
 }
