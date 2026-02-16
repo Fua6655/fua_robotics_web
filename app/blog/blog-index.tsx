@@ -100,6 +100,82 @@ export default function BlogIndex() {
               <span aria-hidden>→</span>
             </Link>
           </article>
+
+          <article className="rounded-3xl border border-gray-200 p-8 bg-white shadow-sm">
+            <p className="text-xs uppercase tracking-widest text-gray-400">
+              {t.sectionBlogTitle}
+            </p>
+            <h2 className="mt-4 text-2xl font-semibold text-gray-900">
+              {t.blogPostAiTitle}
+            </h2>
+            <p className="mt-4 text-gray-600 leading-relaxed">
+              {t.blogPostAiExcerpt}
+            </p>
+            <Link
+              href="/blog/ai-agent-incident"
+              className="inline-flex mt-6 items-center gap-2 text-sm font-medium text-gray-900 hover:text-gray-700"
+            >
+              {t.blogRead}
+              <span aria-hidden>→</span>
+            </Link>
+          </article>
+
+          <article className="rounded-3xl border border-gray-200 p-8 bg-white shadow-sm">
+            <p className="text-xs uppercase tracking-widest text-gray-400">
+              {t.sectionBlogTitle}
+            </p>
+            <h2 className="mt-4 text-2xl font-semibold text-gray-900">
+              {t.blogPostChinaTitle}
+            </h2>
+            <p className="mt-4 text-gray-600 leading-relaxed">
+              {t.blogPostChinaExcerpt}
+            </p>
+            <Link
+              href="/blog/kina-2025"
+              className="inline-flex mt-6 items-center gap-2 text-sm font-medium text-gray-900 hover:text-gray-700"
+            >
+              {t.blogRead}
+              <span aria-hidden>→</span>
+            </Link>
+          </article>
+
+          <article className="rounded-3xl border border-gray-200 p-8 bg-white shadow-sm">
+            <p className="text-xs uppercase tracking-widest text-gray-400">
+              {t.sectionBlogTitle}
+            </p>
+            <h2 className="mt-4 text-2xl font-semibold text-gray-900">
+              {t.blogPostIsoTitle}
+            </h2>
+            <p className="mt-4 text-gray-600 leading-relaxed">
+              {t.blogPostIsoExcerpt}
+            </p>
+            <Link
+              href="/blog/iso-iec-hri"
+              className="inline-flex mt-6 items-center gap-2 text-sm font-medium text-gray-900 hover:text-gray-700"
+            >
+              {t.blogRead}
+              <span aria-hidden>→</span>
+            </Link>
+          </article>
+
+          <article className="rounded-3xl border border-gray-200 p-8 bg-white shadow-sm">
+            <p className="text-xs uppercase tracking-widest text-gray-400">
+              {t.sectionBlogTitle}
+            </p>
+            <h2 className="mt-4 text-2xl font-semibold text-gray-900">
+              {t.blogPostGlobalTitle}
+            </h2>
+            <p className="mt-4 text-gray-600 leading-relaxed">
+              {t.blogPostGlobalExcerpt}
+            </p>
+            <Link
+              href="/blog/global-hri-safety"
+              className="inline-flex mt-6 items-center gap-2 text-sm font-medium text-gray-900 hover:text-gray-700"
+            >
+              {t.blogRead}
+              <span aria-hidden>→</span>
+            </Link>
+          </article>
         </div>
       </section>
     </main>
